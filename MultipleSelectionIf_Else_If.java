@@ -36,3 +36,13 @@ public class MultipleSelectionIf_Else_If{
 		}
 	}
 }
+
+
+check if the english test is greater than 70
+
+accept name
+accept ENG, Mat and ICt test score
+
+if the the average is greater than or equal to 80
+
+grant or reject employment

@@ -51,3 +51,5 @@ public class SwitchCase{
 		
 	}
 }
+
+Accept a Character and display if the character is a consonnat or a vowel
